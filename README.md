@@ -1,4 +1,4 @@
-# Stack Plan
+tack Plan
 LNMP
 Linux
 NgniX
@@ -15,3 +15,4 @@ Portfolio website and place for web experiments.
 
 ### Resources
  - Python workbook https://www.dropbox.com/s/k41vw5a49y64nt7/workbook.pdf?dl=1 
+
