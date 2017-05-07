@@ -9,6 +9,4 @@ Stack: LNLP Linux, NginX, SQLite, Python
  - Make use of Python framework (Flask, Django etc)
 
 ### Resources
- - Python workbook https://www.dropbox.com/s/k41vw5a49y64nt7/workbook.pdf?dl=1 
-
-
+ - Python workbook https://www.dropbox.com/s/k41vw5a49y64nt7/workbook.pdf?dl=1

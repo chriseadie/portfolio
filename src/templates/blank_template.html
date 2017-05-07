@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}blank_template{% endblock %}
+{% block head %}
+  {{ super() }}
+  <meta name="description" content="Portfolio &amp; contact website">
+{% endblock %}
+{% block content %}
+
+  <h1>Title</h1>
+  <p>This is a blank template page.<br>
+  Put your page content within the block content tag section.</p>
+
+{% include "footer.html" %}{% endblock %}
